@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev-ops
 - 🌱 I’m currently learning React, Cassandra DB
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... right Here
 
 - 🎁 Badges --- 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7ae05969-1e14-478f-b87b-4bbf02401948/deploy-status)](https://app.netlify.com/sites/vibrant-tereshkova-5f1122/deploys)
